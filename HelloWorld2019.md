@@ -1,5 +1,6 @@
 ## This is a markdown file for HKBU COMM7330. My ID is <19456190>!
-Tomorrow is a Chinese traditional festival.
+Tomorrow is a Chinese traditional festival.  
+
 *Mid-Autumn Festvial*.  
 
 In this special day, Chinese people like to eat some mooncake.   
